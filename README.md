@@ -46,10 +46,10 @@ However, if you need to do it locally, you can access all DHARMA RelexNG and Sch
 
   *Please note that this process can break easily and requires high quality data*. The content log of the pipeline are available under [Actions tab](https://github.com/erc-dharma/tfa-accalpuram-epigraphy/actions) of the repository, if you need to find the reason behind an error.
 
+![DHARMA XML workflow](https://github.com/erc-dharma/project-documentation/blob/master/guides/images/DHARMA_XMLWorkflow_v01.png?raw=true)
+
 ## License & Attribution
 All the edited XML files of this repository are available under the [Creative Commons CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/), meaning you are free to use it for any purpose, commercial or non-commercial! However, we ask you to mention the project name, funder as well as the members involved in the XML edition of the inscriptions. Feel free to contact the project for more infos at `ercdharma@gmail.com`.
-
-<hr/>
 
 ## Contributing to this repository
 **Thanks for your interest in contributing!** Currently only members of the project are allowed to contribute to this repository. Contact the researchers in charge of this corpus if you are interested in working with them.
