@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # tfa-accalpuram-epigraphy
-DHARMA project Task Force A Tamil Nadu, South India, Accalpuram epigraphic corpus.
+DHARMA project Task Force A Tamil Nadu, South India, Accāḷpuram epigraphic corpus.
 For more information, see the [website description](https://dharma.hypotheses.org/task-forces).
 
 ## Help and Guides
